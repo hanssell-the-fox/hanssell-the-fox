@@ -70,11 +70,8 @@
 <br/>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wcalixto&" alt="wcalixto" width="400"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wcalixto&show_icons=true&locale=en&layout=compact" alt="wcalixto" width="400" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wcalixto&show_icons=true&locale=en" alt="wcalixto" width="400"/>
-</p>
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wcalixto&show_icons=true&locale=en&layout=compact" alt="wcalixto" width="329" />
 </p>
 
 <h3 align="left">Connect with me to on:</h3>
