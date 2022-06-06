@@ -1,13 +1,13 @@
 <h1 align="center"> : Hi, please call me Wederson :</h1>
 
-<h3>How can I say that... well... I love ❤️ everything about tecnology and programing. I'm aways trying to learn something new every day and this is probably what make me keep going. Discover and realyze something I didn't know until seconds ago... its indescritible.</h3>
+<h3>How can I say that... well... I love ❤️ everything about tecnology and programing. Aways trying to learn something new every day and this is probably what make me keep going. Discover and realyze something I didn't know until seconds ago... its indescritible.</h3>
 <br/>
-
-**☕ Give me a coffee ☕**
 
 * Currently learning a bunch of things
 * Participating in some **Bootcamps**
 * Practicing **Deno 🦕** and **Vue**.
+
+WHAIT **☕ Give me a coffee ☕** !!!?!
 
 #### Usually practicing with these tecnologies in my projects <br/>
 * <img src="https://deno.land/logo.svg" alt="denojs" width="20" height="20"/> **Deno**
