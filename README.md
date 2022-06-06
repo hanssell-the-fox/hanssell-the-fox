@@ -7,7 +7,7 @@
 * Participating in some **Bootcamps**
 * Practicing **Deno 🦕** and **Vue**.
 
-WHAIT **☕ Give me a coffee ☕** !!!?!
+WAIT **☕ Give me a coffee ☕** !!!?!
 
 #### Usually practicing with these tecnologies in my projects <br/>
 * <img src="https://deno.land/logo.svg" alt="denojs" width="20" height="20"/> **Deno**
