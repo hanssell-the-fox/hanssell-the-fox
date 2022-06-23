@@ -2,7 +2,7 @@
 
 ### So let's talk a little bit. I do love ❤️ everything about tecnology and programing. Aways trying to learn something new every day and this is probably what make me keep going. Discover and realyze something I didn't know until seconds ago... its a indescritible thing.
 
-Before we continue, do like to take a sip on a **cup of coffee ☕**?
+Before we continue, do you like to take a sip on a **cup of coffee ☕**?
 
 * Off course I'm currently learning a bunch of things
 * **Bootcamps** are something out off another world
