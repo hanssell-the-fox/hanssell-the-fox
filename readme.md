@@ -21,7 +21,7 @@ Gosto de tudo o que é relacionado à tecnologia, desenvolvimento e inovações.
 
 :two_hearts:&nbsp;Hoje gosto de usar **Deno 🦕**, **Svelte** ou **Rust** quando vou praticar em meus projetos pessoais<br/>
 
-:two_hearts:&nbsp;E amo **raposas** e um bom **café**
+:two_hearts:&nbsp;Amo **raposas** e um bom **café**
 
 <div align="center">
   <br/>
