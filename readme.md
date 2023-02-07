@@ -25,7 +25,7 @@ Gosto de tudo o que é relacionado à **tecnologia**, **desenvolvimento de softw
 
 :bookmark:&nbsp;Estudo línguas estrangeiras como um passatempo. Conheço bem o **Inglês** e espero ainda aprender **Francês**, **Mandarin** e, quem sabe, **Russo**<br/>
 
-:two_hearts:&nbsp;Hoje gosto de usar **Deno 🦕**, **Svelte** ou **Rust** quando estou praticando em meus projetos pessoais, porém isso depende do que estiver em meu foco de estudos atual<br/>
+:two_hearts:&nbsp;Hoje gosto de usar **Deno 🦕**, **Svelte** ou **Rust** quando estou praticando em meus projetos pessoais, porém, isso depende do que estiver em meu foco de estudos atual<br/>
 
 :two_hearts:&nbsp;Admiro **raposas** e adoro um bom **café**
 
