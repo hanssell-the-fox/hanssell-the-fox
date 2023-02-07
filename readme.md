@@ -3,7 +3,9 @@
 &nbsp;
 
 <div align="center">
-Gosto de tudo o que é relacionado à **tecnologia**, **desenvolvimento de software**  e **inovações**. Tudo em nosso mundo atual faz minha imaginação voar admirando as possibilidades do que se pode fazer e como o futuro será.
+
+Gosto de tudo o que é relacionado à **tecnologia**, **desenvolvimento de software** e **inovações**. Tudo em nosso mundo atual faz minha imaginação voar admirando as possibilidades do que se pode fazer e como o futuro será.
+
 </div>
 
 &nbsp;
@@ -23,7 +25,7 @@ Gosto de tudo o que é relacionado à **tecnologia**, **desenvolvimento de softw
 
 :bookmark:&nbsp;Estudo línguas estrangeiras como um passatempo. Conheço bem o **Inglês** e espero ainda aprender **Francês**, **Mandarin** e, quem sabe, **Russo**<br/>
 
-:two_hearts:&nbsp;Hoje gosto de usar **Deno 🦕**, **Svelte** ou **Rust** quando vou _brincar_ em meus projetos pessoais, porém isso depende do que estiver em meu foco de estudos atual<br/>
+:two*hearts:&nbsp;Hoje gosto de usar **Deno 🦕**, **Svelte** ou **Rust** quando vou \_brincar* em meus projetos pessoais, porém isso depende do que estiver em meu foco de estudos atual<br/>
 
 :two_hearts:&nbsp;Admiro **raposas** e adoro um bom **café**
 
