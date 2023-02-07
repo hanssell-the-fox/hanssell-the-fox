@@ -2,7 +2,11 @@
 
 &nbsp;
 
+<div align="center">
 Gosto de tudo o que é relacionado à **tecnologia**, **desenvolvimento de software**  e **inovações**. Tudo em nosso mundo atual faz minha imaginação voar admirando as possibilidades do que se pode fazer e como o futuro será.
+</div>
+
+&nbsp;
 
 <div align="center">
   <img width="25" src="./images/fox.svg">
@@ -11,16 +15,15 @@ Gosto de tudo o que é relacionado à **tecnologia**, **desenvolvimento de softw
 
 <img align="right" src="/images/fox.png" width="450" />
 
-<img src="/images/fox.svg" width="19" />&nbsp;Meu nome é **Wederson de Oliveira Calixto**, normalmente apenas utilizo **Wederon Calixto** e sou conhecido como **Hanssell a raposa** nas redes sociais <br/>
+<img src="/images/fox.svg" width="19" />&nbsp;Meu nome é **Wederson de Oliveira Calixto**, normalmente apenas utilizo **Wederson Calixto** e sou conhecido como **Hanssell a raposa** nas redes sociais <br/>
 
 <img src="/images/paw.png" width="19" />&nbsp;Estudante de **Engenharia de Software**, com meu foco atual voltado à **Desenvolvimento Web** e **Qualidade de software** <br/>
 
 :bookmark:&nbsp;Sempre estou lendo artigos e livros sobre **desenvolvimento de software** e **boas práticas**<br/>
 
-:bookmark:&nbsp;Estudo línguas estrangeiras como um passastempo, já conheço bem o **Inglês** e espero ainda aprender **Francês**, **Mandarin** e, quem sabe
-**Russo**<br/>
+:bookmark:&nbsp;Estudo línguas estrangeiras como um passatempo. Conheço bem o **Inglês** e espero ainda aprender **Francês**, **Mandarin** e, quem sabe, **Russo**<br/>
 
-:two_hearts:&nbsp;Hoje gosto de usar **Deno 🦕**, **Svelte** ou **Rust** quando vou praticar em meus projetos pessoais, más isso depende do que estiver em meu foco de estudos atual<br/>
+:two_hearts:&nbsp;Hoje gosto de usar **Deno 🦕**, **Svelte** ou **Rust** quando vou _brincar_ em meus projetos pessoais, porém isso depende do que estiver em meu foco de estudos atual<br/>
 
 :two_hearts:&nbsp;Admiro **raposas** e adoro um bom **café**
 
