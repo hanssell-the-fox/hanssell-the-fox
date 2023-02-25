@@ -40,7 +40,7 @@ Gosto de tudo o que é relacionado à **tecnologia**, **desenvolvimento de softw
 <br/>
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://linkedin.com/in/wederson-calixto)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wederson.programador@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://linkedin.com/in/wederson-calixto)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the-fox@hanssell.dev)
 
 </div>
 &nbsp;
