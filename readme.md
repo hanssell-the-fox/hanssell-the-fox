@@ -3,26 +3,28 @@
 
 <div align="center">
 
-**Tecnologia**, **desenvolvimento de software** e **novações**. Tudo em nosso mundo atual faz minha
-imaginação voar, admirando as possibilidades do que se pode fazer e como o futuro, provavelmente, será.
+Tudo na atualidade faz minha imaginação voar, admirando as possibilidades do que será possível criar e como o futuro, provavelmente, será.
+**Tecnologias**, **Softwares** e **Inovações**. 
 
 </div>
 
 <!-- Section separator -->
 <div align="center">
   &nbsp;
+  <br/>
   <img width="30" src="./images/fox.svg" alt="a fox face">
   <br/>
+  &nbsp;
 </div>
 
-<!-- Sticker at the right -->
+<!-- Sticker -->
 <img align="right" src="./images/sticker.png" width="50%" alt="a sticker of a fox"/>
 
-<!-- A simple list of what I like and goals -->
+<!-- A simple list of what I like and my goals -->
 <div>
   <br/>
 
-:fox_face:&nbsp; **Wederson de Oliveira Calixto**, também, conhecido como **Hanssell a raposa** nas redes sociais e por amigos.<br/>
+:fox_face:&nbsp; **Wederson de Oliveira Calixto**, também conhecido como **Hanssell a raposa** nas redes sociais.<br/>
 
 :fox_face:&nbsp; Estudante de **Engenharia de Software**, focado em **Desenvolvimento de Sistemas**, **Qualidade de software** e **Segurança de processos**.<br/>
 
@@ -32,12 +34,13 @@ imaginação voar, admirando as possibilidades do que se pode fazer e como o fut
 
 :two_hearts:&nbsp; Gosto de usar qualquer qualquer tipo de tecnologia quando estou praticando em meus projetos pessoais.<br/>
 
-:two_hearts:&nbsp;Admiro **raposas**, amo um bom **café** :coffee: e **aprender** coisas novas.<br/>
+:two_hearts:&nbsp;Admiro **raposas**, amo um bom :coffee: **café** e **aprender** coisas novas.<br/>
 
 </div>
 
 <!-- Contact links -->
 <br/>
+&nbsp;
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://linkedin.com/in/wederson-calixto)&nbsp;
