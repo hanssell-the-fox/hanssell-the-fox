@@ -19,29 +19,17 @@ Sinta-se à vontade para me convidar para um bate-papo, gosto de aprender coisas
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://linkedin.com/in/wederson-calixto)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the-fox@hanssell.dev)
 
+&nbsp;
 </div>
-
-<!-- Section separator -->
-<div align="center">
-  &nbsp;
-  <br/>
-  <img width="40" src="./images/paw.png" alt="a fox face">
-  <br/>
-  &nbsp;
-</div>
-
-<!-- Sticker -->
-<img align="right" src="./images/me-sticker.png" width="50%" alt="eu como um adesivo"/>
 
 <!-- A simple list of what I like and my goals -->
-<div>
 <div align="center">
 
   :fox_face: Um pouco mais sobre mim 
 
 </div>
 
-<img src="./images/paw.png" width="18" height="18" /> Me chamo **Wederson**, porém, conhecido como **Hanssell** ou **Hanssell a raposa** nas redes sociais.<br/>
+<img src="./images/paw.png" width="18" height="18" /> Meu nome é **Wederson**, porém conhecido como **Hanssell** ou **Hanssell a raposa** nas redes sociais.<br/>
   
 <img src="./images/paw.png" width="18" height="18" /> Estudante de **Engenharia de Software**, focado em **Desenvolvimento de Sistemas**, **Qualidade de software** e **Segurança de processos**.<br/>
 
@@ -51,5 +39,11 @@ Sinta-se à vontade para me convidar para um bate-papo, gosto de aprender coisas
 
 <img src="./images/paw.png" width="18" height="18" /> Admiro **raposas**, amo um bom :coffee: **café** e **aprender** coisas novas.<br/>
 
+<div align="center">
+  &nbsp;
+  <br/>
+  <img width="40" src="./images/paw.png" alt="uma pata de raposa">
+  <img width="40" src="./images/paw.png" alt="uma pata de raposa">
+  <br/>
+  &nbsp;
 </div>
-
