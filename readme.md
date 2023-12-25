@@ -18,7 +18,6 @@ paixão pela inovação. Como uma verdadeira raposa, estou sempre ansioso para a
 obstáculos.
 
 Seja bem-vindo ao meu mundo, onde a curiosidade é o meu guia e o código é a língua que nos conecta.
-🦊👓🚀
 
 <div align="center">
   <br />
