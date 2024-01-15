@@ -8,14 +8,13 @@
   <p>Olá, sou Hanssell! mas pode me chamar de Hans se preferir 🦊</p>
 </div>
 
-Como eu uma raposa curiosa e ávida por conhecimento, adoro me aventurar no mundo do desenvolvimento
-de software. Minha jornada é sempre alimentada pelo aprendizado, sempre ávido para explorar novos
-horizontes, desvendar mistérios e compartilhar essa jornada com outros.
+Como uma raposa curiosa, adoro me aventurar no mundo do desenvolvimento de software. Minha jornada é
+sempre alimentada pelo aprendizado, ávido para explorar novos horizontes, desvendar mistérios e 
+compartilhar essa jornada com outros.
 
 Enquanto percorro as trilhas do conhecimento, minha missão é decifrar enigmas, criar soluções e 
 experiências que encantem. Nesta jornada, compartilharei as descobertas, desafios que enfrento e minha
-paixão pela inovação. Como uma verdadeira raposa, estou sempre ansioso para aprender, ensinar e superar
-obstáculos.
+paixão pela inovação. Sempre ansioso para aprender, ensinar e superar obstáculos.
 
 Seja bem-vindo ao meu mundo, onde a curiosidade é o meu guia e o código é a língua que nos conecta.
 
@@ -42,7 +41,7 @@ tecnologias e compartilhar esse conhecimento com a comunidade de desenvolvedores
 
 Quando não estou codificando, você pode me encontrar em **jogos** e **redes sociais**.
 
-Estou empolgado para continuar minha jornada no mundo do desenvolvimento de software e para compartilhar 
+Estou empolgado para continuar minha jornada no mundo do desenvolvimento de software e compartilhar 
 minha paixão e conhecimento.
 
 <!-- Contact links -->
@@ -51,8 +50,7 @@ minha paixão e conhecimento.
 
   [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hanssell-the-fox)&nbsp;
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wederson-calixto)&nbsp;
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ](https://discordapp.com/users/272589859284189194)&nbsp;
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0qOrW4O0PKRiCeRhJ7k1bQ)&nbsp;
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/272589859284189194)&nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the-fox@hanssell.dev)&nbsp;
 </div>
 
@@ -86,14 +84,5 @@ minha paixão e conhecimento.
 ![Maria](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
-</div>
-
-<div align="center">
-  <br />
-  <img src="./images/paw.png" width="30" />
-  <img src="./images/my-face.png" width="100" />
-  <img src="./images/paw.png" width="30" />
-  <br />
-  <img src="./images/city.png" width="100%" />
 </div>
 
