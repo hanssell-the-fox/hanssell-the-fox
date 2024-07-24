@@ -1,20 +1,19 @@
 [![Hanssell website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://hanssell.dev)&nbsp;
 ![Hanssell followers](https://img.shields.io/github/followers/hanssell-the-fox.svg?style=social&label=Follow&maxAge=2592000)
 
-<img src="./images/me.png" width="100%" alt="My on the future"/>
+<img src="./images/me.png" width="100%" alt="Me on the future"/>
 
 <div align="center">
   <br />
   <p>Olá, sou Hanssell! mas pode me chamar de Hans se preferir 🦊</p>
 </div>
 
-Como uma raposa curiosa, adoro me aventurar no mundo do desenvolvimento de software. Minha jornada é
-sempre alimentada pelo aprendizado, ávido para explorar novos horizontes, desvendar mistérios e 
-compartilhar essa jornada com outros.
+Curioso, adoro me aventurar no mundo do desenvolvimento de software. Alimentado pelo aprendizado,
+explorando novos horizontes, desvendando mistérios e compartilhando essa jornada com outros.
 
-Enquanto percorro as trilhas do conhecimento, minha missão é decifrar enigmas, criar soluções e 
-experiências que encantem. Nesta jornada, compartilharei as descobertas, desafios que enfrento e minha
-paixão pela inovação. Sempre ansioso para aprender, ensinar e superar obstáculos.
+Gosto de novos conhecimentos, decifrar enigmas, criar soluções e experiências que encantem e sirvam
+de inspiração. Compartilharei as descobertas, desafios que enfrento e minha paixão pela inovação.
+Sempre ansioso para aprender, ensinar e superar obstáculos.
 
 Seja bem-vindo ao meu mundo, onde a curiosidade é o meu guia e o código é a língua que nos conecta.
 
@@ -26,18 +25,17 @@ Seja bem-vindo ao meu mundo, onde a curiosidade é o meu guia e o código é a l
   <br /><br />
 </div>
 
-Sou estudante de **Engenharia de Software**, apaixonado por desafios técnicos e criativos. Com uma base
-sólida em *algoritmos* e *raciocínio lógico*, mergulhei de cabeça no mundo do desenvolvimento de software
-ainda jovem (aos 12 anos de idade).
+Sou estudante de **Engenharia de Software**, apaixonado por desafios. Mergulhei de cabeça no mundo
+do desenvolvimento de software ainda jovem (aos 12 anos de idade).
 
 Minha jornada até aqui me proporcionou a oportunidade de trabalhar em diversos projetos interessantes,
-onde pude aplicar meus conhecimentos em *desenvolvimento Web*, *sistemas* e *segurança* para criar 
-soluções inovadoras. Durante esses projetos, aprendi não apenas sobre programação, mas também sobre a
-importância da colaboração em equipe e da busca contínua pelo aprimoramento.
+onde pude aplicar meus conhecimentos em várias áreas do desenvolvimento de sistemas, criando soluções 
+eficientes. Durante esses projetos, aprendi não apenas sobre programação, mas também sobre a importância
+do trabalho em equipe, colaboração e da busca contínua pelo aprimoramento.
 
 Uma das coisas que mais me motivam no desenvolvimento de software é a capacidade de solucionar problemas
 complexos e transformar ideias em realidade. Além disso, estou constantemente buscando aprender novas 
-tecnologias e compartilhar esse conhecimento com a comunidade de desenvolvedores.
+tecnologias e compartilhar esse conhecimento.
 
 Quando não estou codificando, você pode me encontrar em **jogos** e **redes sociais**.
 
