@@ -5,17 +5,19 @@
 
 <div align="center">
   <br />
-  <p>Olá, sou Hanssell! mas pode me chamar de Hans se preferir 🦊</p>
+  <p>Sou o Hans e seja bem-vindo(a) 🦊</p>
 </div>
 
-Curioso, adoro me aventurar no mundo do desenvolvimento de software. Alimentado pelo aprendizado,
-explorando novos horizontes, desvendando mistérios e compartilhando essa jornada com outros.
+Gosto de me aventurar no mundo do desenvolvimento de software. Aprender explorando novos horizontes,
+desvendando mistérios e compartilhando essa jornada com outros.
 
-Gosto de novos conhecimentos, decifrar enigmas, criar soluções e experiências que encantem e sirvam
-de inspiração. Compartilharei as descobertas, desafios que enfrento e minha paixão pela inovação.
-Sempre ansioso para aprender, ensinar e superar obstáculos.
+Novos conhecimentos são bem-vindos, decifrar enigmas, criar soluções e experiências que 
+sirvam de inspiração é sempre algo único.
 
-Seja bem-vindo ao meu mundo, onde a curiosidade é o meu guia e o código é a língua que nos conecta.
+Aqui você pode encontrar um pouco da minha jornada. Compartilho descobertas, desafios e o conhecimento
+com quem quiser aprender e explorar as possibilidades.
+
+Que a curiosidade sirva sempre de guia e a coragem seja nossa companheira.
 
 <div align="center">
   <br />
@@ -25,22 +27,16 @@ Seja bem-vindo ao meu mundo, onde a curiosidade é o meu guia e o código é a l
   <br /><br />
 </div>
 
-Sou estudante de **Engenharia de Software**, apaixonado por desafios. Mergulhei de cabeça no mundo
-do desenvolvimento de software ainda jovem (aos 12 anos de idade).
+Sou estudante de **Engenharia de Software** e apaixonado por desafios. 
 
-Minha jornada até aqui me proporcionou a oportunidade de trabalhar em diversos projetos interessantes,
-onde pude aplicar meus conhecimentos em várias áreas do desenvolvimento de sistemas, criando soluções 
-eficientes. Durante esses projetos, aprendi não apenas sobre programação, mas também sobre a importância
-do trabalho em equipe, colaboração e da busca contínua pelo aprimoramento.
+Minha jornada até aqui proporcionou a oportunidade de trabalhar em diversos projetos interessantes,
+aprendendo coisas novas a cada tentativa e erro, pude testar e aplicar meus conhecimentos em várias
+áreas do desenvolvimento de sistemas. Os projetos não ensinaram o que é programação apenas, mas também
+sobre a importância do trabalho em equipe, colaboração e da busca contínua pelo auto-aprimoramento.
 
 Uma das coisas que mais me motivam no desenvolvimento de software é a capacidade de solucionar problemas
-complexos e transformar ideias em realidade. Além disso, estou constantemente buscando aprender novas 
-tecnologias e compartilhar esse conhecimento.
-
-Quando não estou codificando, você pode me encontrar em **jogos** e **redes sociais**.
-
-Estou empolgado para continuar minha jornada no mundo do desenvolvimento de software e compartilhar 
-minha paixão e conhecimento.
+complexos e transformar ideias em realidade. Estou constantemente buscando aprender novas tecnologias,
+suas aplicações e compartilhar esse conhecimento.
 
 <!-- Contact links -->
 <div align="center">
@@ -57,7 +53,7 @@ minha paixão e conhecimento.
   <img src="./images/paw.png" width="30" />
   <img src="./images/my-face.png" width="100" />
   <img src="./images/paw.png" width="30" />
-  <p>Tecnologias que conheço</p>
+  <p>Tecnologias que conheço ("Conhecer não é dominar")</p>
 </div>
 
 <div align="center">
